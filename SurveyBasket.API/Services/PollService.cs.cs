@@ -1,7 +1,4 @@
-﻿
-using SurveyBasket.API.Models;
-
-namespace SurveyBasket.API.Services
+﻿namespace SurveyBasket.API.Services
 {
     public class PollService : IPollService
     {
